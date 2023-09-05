@@ -1,0 +1,40 @@
+---
+title: "Holly Hall"
+description: "Post-doc"
+categories: [R, RNAseq, comparative-genomics, multi-OMICs, multi-species] # self-defined categories
+image: tmap.png
+about: 
+  id: hero-heading
+  template: trestles
+  image: aaa.jpeg
+  image-shape: round
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/holly-hall-968a1241/
+    - icon: github
+      href: https://github.com/mdrnao
+    - icon: envelope
+      href: mailto:h.hall@beatson.gla.ac.uk
+---
+
+:::{#hero-heading}
+
+I'm Holly, a post-doc at [CRUK Beatson Institute](https://www.beatson.gla.ac.uk) in [Prof Crispin Miller's](https://www.beatson.gla.ac.uk/beatson-research/beatson-research-groups/crispin-miller-computational-biology.html) group.
+
+## Currently working on
+
+I am doing work
+
+## Education
+
+I have been educated
+
+## Prior projects
+
+I have done work before
+
+:::
+
+## Publications
+
+I might add stuff here

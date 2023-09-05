@@ -1,11 +1,15 @@
 ---
-title: "Beatson-CompBio.github.io"
+title: "CRUK Beatson Institute - CompBio"
+image: BeatsonInstitute.jpg
+about: 
+  template: trestles
+  links:
+    - icon: link
+      href: https://www.beatson.gla.ac.uk
+    - icon: github
+      href: https://github.com/Beatson-CompBio
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+The Beatson Institute for Cancer Research is core-funded by Cancer Research UK and provides a dynamic, supportive and well-resourced environment for its basic and translational scientists. Our mission is to understand the mechanisms that regulate cancer cell proliferation, survival and dissemination; to identify critical components of these pathways as targets for novel cancer therapies; and to help translate this knowledge to patient benefit. \
+\
+The Institute is located in a state-of-the-art research building in parkland on the north-western edge of Glasgow and has close ties to the University of Glasgow\'s basic and clinical cancer research groups.

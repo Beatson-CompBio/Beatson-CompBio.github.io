@@ -7,13 +7,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - people.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
